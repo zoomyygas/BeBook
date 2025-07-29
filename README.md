@@ -1,7 +1,6 @@
 ```markdown
 # BeBook - Минималистичная платформа для публикации статей
 
-![BeBook Logo](https://via.placeholder.com/150x50?text=BeBook)  
 *Просто пишите. Просто читайте.*
 
 ## Описание сервиса
